@@ -5,7 +5,7 @@ Get the list of all files with filter in a folder and sub-folders. / フィル�
 # Sample direcotry structure.
 
 ~~~
-Root directory
+Data
 ├─Dir_1
 │  │  Dir_1_test-1.csv
 │  │  Dir_1_test-2.csv
