@@ -28,7 +28,7 @@ Data
 ~~~
 
 ## Usage
-### ex.1
+### e.g.1
   - Define the keyword as a search filter and the sheet name for output. / 検索キーと出力先シート名を設定。
   
     <img src="https://github.com/okagen/xlsListAllFilesInFolderAndSubfolders/blob/master/Data/01-1.png" width="600">
@@ -37,7 +37,7 @@ Data
   
     <img src="https://github.com/okagen/xlsListAllFilesInFolderAndSubfolders/blob/master/Data/01-2.png" width="300">
   
-### ex.2
+### e.g.2
   - Define the keyword as a search filter and the sheet name for output. / 検索キーと出力先シート名を設定。
   
     <img src="https://github.com/okagen/xlsListAllFilesInFolderAndSubfolders/blob/master/Data/02-1.png" width="600">
