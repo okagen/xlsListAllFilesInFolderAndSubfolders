@@ -27,10 +27,22 @@ Data
         Dir_2_test-3.csv
 ~~~
 
-## Usage.
-
-<img src="https://github.com/okagen/xlsListAllFilesInFolderAndSubfolders/blob/master/Data/01-1.png" width="600">
-<img src="https://github.com/okagen/xlsListAllFilesInFolderAndSubfolders/blob/master/Data/01-2.png" width="600">
-<img src="https://github.com/okagen/xlsListAllFilesInFolderAndSubfolders/blob/master/Data/02-1.png" width="600">
-<img src="https://github.com/okagen/xlsListAllFilesInFolderAndSubfolders/blob/master/Data/02-2.png" width="600">
+## Usage
+### ex.1
+  - Define the keyword as a search filter and the sheet name for output. / 検索キーと出力先シート名を設定。
+  
+    <img src="https://github.com/okagen/xlsListAllFilesInFolderAndSubfolders/blob/master/Data/01-1.png" width="600">
+  
+  - Result.
+  
+    <img src="https://github.com/okagen/xlsListAllFilesInFolderAndSubfolders/blob/master/Data/01-2.png" width="300">
+  
+### ex.2
+  - Define the keyword as a search filter and the sheet name for output. / 検索キーと出力先シート名を設定。
+  
+    <img src="https://github.com/okagen/xlsListAllFilesInFolderAndSubfolders/blob/master/Data/02-1.png" width="600">
+  
+  - Result.
+  
+    <img src="https://github.com/okagen/xlsListAllFilesInFolderAndSubfolders/blob/master/Data/02-2.png" width="300">
   
